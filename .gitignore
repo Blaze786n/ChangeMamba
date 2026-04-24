@@ -1,0 +1,11 @@
+*.pt
+*.pth
+*.ckpt
+*.h5
+*.zip
+*.tar
+*.gz
+data/
+datasets/
+checkpoints/
+__pycache__/
