@@ -344,8 +344,6 @@ If this code or dataset contributes to your research, please kindly consider cit
 ## 🤝Acknowledgments
 This project is based on VMamba ([paper](https://arxiv.org/abs/2401.10166), [code](https://github.com/MzeroMiko/VMamba)), ScanNet ([paper](https://arxiv.org/abs/2212.05245), [code](https://github.com/ggsDing/SCanNet)), BDANet ([paper](https://ieeexplore.ieee.org/document/9442902), [code](https://github.com/ShaneShen/BDANet-Building-Damage-Assessment)). Thanks for their excellent works!!
 
-## 🙋Q & A
-***For any questions, please feel free to [contact us.](mailto:Qschrx@gmail.com)***
 
 [![Star History Chart](https://api.star-history.com/svg?repos=ChenHongruixuan/MambaCD&type=Date)](https://star-history.com/#ChenHongruixuan/MambaCD&Date)
 =======
