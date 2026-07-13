@@ -349,4 +349,4 @@ This project is based on VMamba ([paper](https://arxiv.org/abs/2401.10166), [cod
 =======
 # ChangeMamba
 Change Mamba is a state-of-the-art deep learning model for satellite image change detection, built on State Space Models (SSMs). It is designed to efficiently capture long-range dependencies and temporal relationships between multi-temporal images, making it highly suitable for large-scale remote sensing applications.
->>>>>>> 1f5881e6dc2e61c22cb4461c8df0ee3bf32136d6
+
